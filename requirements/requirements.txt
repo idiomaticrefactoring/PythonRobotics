@@ -7,3 +7,4 @@ pytest == 7.0.1 # For unit test
 pytest-xdist == 2.5.0 # For unit test
 mypy == 0.931 # For unit test
 flake8 == 4.0.1 # For unit test
+pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability

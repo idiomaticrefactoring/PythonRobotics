@@ -1,3 +1,4 @@
 sphinx == 4.3.2 # For sphinx documentation
 sphinx_rtd_theme == 1.0.0
 IPython == 7.31.1 # For sphinx documentation
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
